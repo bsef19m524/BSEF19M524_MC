@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sajal/AndroidStudioProjects/MyApplication2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/sajal/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.14" />
+        <entry key="..\:/Users/sajal/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/eightactivity.xml" value="0.12" />
+        <entry key="..\:/Users/sajal/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/eigthactivity.xml" value="0.1" />
+        <entry key="..\:/Users/sajal/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/eleventhactivity.xml" value="0.1" />
+        <entry key="..\:/Users/sajal/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fifthactivity.xml" value="0.1" />
+        <entry key="..\:/Users/sajal/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fourthactivity.xml" value="0.1" />
+        <entry key="..\:/Users/sajal/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/ninthactivity.xml" value="0.1" />
+        <entry key="..\:/Users/sajal/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/secondactivity.xml" value="0.13" />
+        <entry key="..\:/Users/sajal/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/seventhactivity.xml" value="0.1" />
+        <entry key="..\:/Users/sajal/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/sixthactivity.xml" value="0.1" />
+        <entry key="..\:/Users/sajal/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/tenthactivity.xml" value="0.18" />
+        <entry key="..\:/Users/sajal/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/thirdactiviy.xml" value="0.18" />
+        <entry key="..\:/Users/sajal/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/thirteenactivity.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/sajal/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/twelvethactivity.xml" value="0.67" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="kids_alphabests_app">Kids Alphabests app</string>
+    <string name="start">START</string>
+    <string name="lesson">LESSON</string>
+    <string name="exam">EXAM</string>
+</resources>
