@@ -130,7 +130,7 @@ public class MainActivity extends AppCompatActivity {
            @Override
            public void onClick(View view) {
                studentModel.setName(name.getText().toString());
-               studentModel.setRollNmber(rol);
+               studentModel.setRollNmber(rol.getText().toString());
                dbHelper.updateuser(studentModel);
                alertDialog.dismiss();
 

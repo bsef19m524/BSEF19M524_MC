@@ -3,10 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Home/AndroidStudioProjects/CRUD/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
-        <entry key="..\:/Users/Home/AndroidStudioProjects/CRUD/app/src/main/res/layout/delete_dialouge.xml" value="0.17074275362318841" />
-        <entry key="..\:/Users/Home/AndroidStudioProjects/CRUD/app/src/main/res/layout/fetch_dialouge.xml" value="0.2384428223844282" />
-        <entry key="..\:/Users/Home/AndroidStudioProjects/CRUD/app/src/main/res/layout/update_dialouge.xml" value="0.17074275362318841" />
+        <entry key="..\:/crudoperations/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/crudoperations/app/src/main/res/layout/delete_dialouge.xml" value="0.22447916666666667" />
+        <entry key="..\:/crudoperations/app/src/main/res/layout/fetch_dialouge.xml" value="0.125" />
+        <entry key="..\:/crudoperations/app/src/main/res/layout/update_dialog.xml" value="0.10989583333333333" />
+        <entry key="..\:/crudoperations/app/src/main/res/layout/update_id_dialog.xml" value="0.10989583333333333" />
       </map>
     </option>
   </component>
